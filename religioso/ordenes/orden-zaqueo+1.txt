@@ -1,0 +1,9 @@
+Genera 4 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+z6fondo-jerico. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A street in first-century Jericho, an oasis city with palm trees, stone and mud-brick houses, a large sycamore fig tree with low spreading branches at the side of the street, bright sunlight, no people, wide shot with space in the foreground for characters
+
+z6ficha-zaqueo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Zacchaeus, chief tax collector of Jericho, Jewish man of about 45, very short in stature, rich robes in fine fabric, neat short beard
+
+mt21fondo-templo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. The outer Court of the Gentiles of Herod's Temple in Jerusalem: vast stone esplanade with colonnades, the white and gold sanctuary in the background, merchants' stalls with cages of doves, pens of oxen and sheep, money changers' tables, bright Passover sunlight, no people, wide shot with space in the foreground for characters
+
+mt21ficha-mercaderes. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: merchants and money changers, Jewish men in colorful robes with coin boxes, scales and cages
