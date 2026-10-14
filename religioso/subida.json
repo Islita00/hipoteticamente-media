@@ -222,5 +222,85 @@
   "altered": false,
   "date": "2026-10-28",
   "hora": "12:00"
+ },
+ "santa-maria-magdalena": {
+  "title": "Santa María Magdalena, primera testigo de la resurrección ✨",
+  "desc": "Santa María Magdalena, discípula de Jesús y primera testigo de la resurrección, «apóstol de los apóstoles». Su fiesta: 22 de julio.\n\n#santos #vidadesantos #catolico #fe",
+  "tags": "santos, vida de santos, catolico, maria magdalena, resurreccion, apostol de los apostoles",
+  "altered": true,
+  "date": "2026-10-24",
+  "hora": "19:00"
+ },
+ "diez-leprosos": {
+  "title": "Jesús curó a diez leprosos, y solo uno volvió 🙏",
+  "desc": "Jesús cura a diez leprosos y solo un samaritano vuelve a darle gracias (Lc 17,11-19).\n\n#jesus #historiasdejesus #biblia #fe",
+  "tags": "jesus, historias de jesus, biblia, evangelio, diez leprosos, gratitud",
+  "altered": false,
+  "date": "2026-10-24",
+  "hora": "23:00"
+ },
+ "santa-teresa-de-jesus": {
+  "title": "Santa Teresa de Jesús, primera doctora de la Iglesia ✨",
+  "desc": "Santa Teresa de Jesús (1515-1582), reformadora del Carmelo y primera mujer doctora de la Iglesia. Su fiesta: 15 de octubre.\n\n#santos #vidadesantos #catolico #fe",
+  "tags": "santos, vida de santos, catolico, santa teresa de jesus, avila, carmelitas",
+  "altered": true,
+  "date": "2026-10-25",
+  "hora": "18:00"
+ },
+ "hija-de-jairo": {
+  "title": "Jesús tomó de la mano a una niña muerta y la levantó 🙏",
+  "desc": "Jesús resucita a la hija de Jairo y cura a la mujer enferma (Mc 5,21-43).\n\n#jesus #historiasdejesus #biblia #fe",
+  "tags": "jesus, historias de jesus, biblia, evangelio, hija de jairo, talita kum",
+  "altered": false,
+  "date": "2026-10-25",
+  "hora": "22:00"
+ },
+ "santiago-apostol": {
+  "title": "Santiago Apóstol, el primer apóstol mártir ✨",
+  "desc": "Santiago el Mayor, apóstol, hijo de Zebedeo, primer apóstol mártir y patrón de España. Su fiesta: 25 de julio.\n\n#santos #vidadesantos #catolico #fe",
+  "tags": "santos, vida de santos, catolico, santiago apostol, camino de santiago, patron de españa",
+  "altered": true,
+  "date": "2026-10-26",
+  "hora": "18:00"
+ },
+ "paralitico-de-cafarnaum": {
+  "title": "Abrieron el techo para bajar a un paralítico 🙏",
+  "desc": "Jesús perdona y cura al paralítico de Cafarnaúm (Mc 2,1-12).\n\n#jesus #historiasdejesus #biblia #fe",
+  "tags": "jesus, historias de jesus, biblia, evangelio, paralitico, cafarnaum",
+  "altered": false,
+  "date": "2026-10-26",
+  "hora": "22:00"
+ },
+ "santo-tomas-de-aquino": {
+  "title": "Santo Tomás de Aquino, el Doctor Angélico ✨",
+  "desc": "Santo Tomás de Aquino (c. 1225-1274), dominico, autor de la Suma Teológica y doctor de la Iglesia. Su fiesta: 28 de enero.\n\n#santos #vidadesantos #catolico #fe",
+  "tags": "santos, vida de santos, catolico, santo tomas de aquino, dominicos, doctor de la iglesia",
+  "altered": true,
+  "date": "2026-10-27",
+  "hora": "18:00"
+ },
+ "tentaciones-en-el-desierto": {
+  "title": "Jesús pasó 40 días sin comer en el desierto 🏜️",
+  "desc": "Las tentaciones de Jesús en el desierto (Mt 4,1-11).\n\n#jesus #historiasdejesus #biblia #fe",
+  "tags": "jesus, historias de jesus, biblia, evangelio, tentaciones de jesus, desierto",
+  "altered": false,
+  "date": "2026-10-27",
+  "hora": "22:00"
+ },
+ "virgen-de-fatima": {
+  "title": "Nuestra Señora de Fátima y los tres pastorcitos ✨",
+  "desc": "Las apariciones de la Virgen en Fátima (Portugal) en 1917 a Lucía, Francisco y Jacinta. Su fiesta: 13 de mayo.\n\n#santos #vidadesantos #catolico #fe",
+  "tags": "santos, vida de santos, catolico, virgen de fatima, fatima, pastorcitos",
+  "altered": true,
+  "date": "2026-10-28",
+  "hora": "18:00"
+ },
+ "transfiguracion": {
+  "title": "El rostro de Jesús se puso resplandeciente como el sol ✨",
+  "desc": "La transfiguración de Jesús ante Pedro, Santiago y Juan (Mt 17,1-9).\n\n#jesus #historiasdejesus #biblia #fe",
+  "tags": "jesus, historias de jesus, biblia, evangelio, transfiguracion, monte tabor",
+  "altered": false,
+  "date": "2026-10-28",
+  "hora": "22:00"
  }
 }
