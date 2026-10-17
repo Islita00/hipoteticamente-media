@@ -1,0 +1,37 @@
+Genera 18 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+vm17fondo-aduana. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A first-century tax collector's booth by the road at the edge of Capernaum near the Sea of Galilee: a wooden table with scales, coins and wax tablets under a simple awning, basalt houses behind, fishing boats on the lake, morning light, no people, wide shot with space in the foreground for characters
+
+vm17fondo-casa. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. The courtyard of a well-to-do first-century house in Capernaum prepared for a meal: low tables with bread, fish and wine cups, oil lamps, basalt walls, evening light, no people, wide shot with space in the foreground for characters
+
+vm17ficha-mateo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Matthew the tax collector, Galilean man of about 35, neatly trimmed black beard, short dark hair, a fine dark green tunic with a leather money pouch at his belt, a ring on his finger
+
+vm17ficha-publicanos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: tax collectors and sinners in fine but showy first-century clothes
+
+vm17ficha-fariseos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Pharisees in long robes with prayer shawls
+
+jr10fondo-camino. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A road leaving a first-century village in Judea: stony path, low stone walls, olive trees and distant hills, a few palm trees, clear daylight, no people, wide shot with space in the foreground for characters
+
+jr10ficha-rico. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a wealthy young Jewish man of about 25, well-groomed short beard, fine embroidered tunic of blue and gold, a rich mantle, gold rings and an elegant belt
+
+jr10ficha-discipulos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Jesus' apostles, Galilean men in simple wool tunics and mantles
+
+pp18fondo-patio. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. The courtyard of a wealthy Pharisee's house in a first-century Galilean town, set for a banquet: low tables surrounded by cushioned couches where guests recline, oil lamps, bread and wine, stone columns, evening light, no people, wide shot with space in the foreground for characters
+
+pp18ficha-mujer. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a Galilean woman of about 30, long loose dark hair, simple dark red dress and a worn shawl, tear-streaked face, holding a small white alabaster jar
+
+pp18ficha-simon. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Simon the Pharisee, the host, about 50, grey beard, fine white robe with a prayer shawl, haughty bearing
+
+pp18ficha-invitados. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: guests of the Pharisee reclining at the tables in fine robes
+
+ssc20fondo-palacio. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. The throne hall of an ancient Eastern king: stone columns, a raised throne under a canopy, a table with scrolls and account tablets, guards at the doors, warm lamplight, no people, wide shot with space in the foreground for characters
+
+ssc20fondo-calle. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A narrow street of an ancient town just outside the palace gate: stone walls, steps, a small market stall, harsh daylight, no people, wide shot with space in the foreground for characters
+
+ssc20ficha-pedro. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Simon Peter, strong Galilean fisherman of about 35, short curly dark hair and thick short beard, brown wool tunic
+
+ssc20ficha-rey. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: an ancient Eastern king of about 55, grey beard, gold crown, rich purple robe
+
+ssc20ficha-siervo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the royal servant who owes the huge debt, about 40, well-dressed in a fine brown and gold tunic, black beard
+
+ssc20ficha-companero. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: his fellow servant, about 35, thin, poor patched tunic
