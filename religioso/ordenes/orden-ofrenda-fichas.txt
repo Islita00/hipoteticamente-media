@@ -1,0 +1,9 @@
+Genera 4 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+ov19fondo-templo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. An inner court of the Temple of Jerusalem in the first century: white limestone colonnades with gilded details, a row of bronze offering chests with curved horn-shaped mouths along the wall, stone pavement, bright morning sunlight, no people, wide shot with space in the foreground for characters
+
+ov19ficha-viuda. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a poor elderly widow of about 65, thin and stooped, wrinkled face, a faded dark patched dress and an old black head covering
+
+ov19ficha-ricos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: wealthy men of Jerusalem in rich embroidered robes with heavy purses
+
+ov19ficha-discipulos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Jesus' apostles, Galilean men in simple wool tunics and mantles
