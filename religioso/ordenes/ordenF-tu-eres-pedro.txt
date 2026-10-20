@@ -1,0 +1,9 @@
+Genera 4 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+tep13fondo-cesarea. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. The foot of Mount Hermon at Caesarea Philippi (Banias) in the first century: a huge cave opening in a sheer rock cliff, niches carved in the rock face for pagan statues, a spring and green trees, snowy Mount Hermon above, no people, wide shot with space in the foreground for characters
+
+tep13fondo-camino. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A road through green hills below Mount Hermon in the first century, olive trees and rocks, evening light, no people
+
+tep13ficha-pedro. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Simon Peter, Galilean fisherman of about 40, strong and broad-shouldered, weathered sun-tanned face, short curly greying dark beard and hair, a coarse brown wool tunic with a rope belt
+
+tep13ficha-discipulos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Jesus' apostles, Galilean men in simple wool tunics and mantles
