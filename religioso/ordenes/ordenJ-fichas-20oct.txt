@@ -1,0 +1,25 @@
+Genera 12 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+mp16fondo-cafarnaum. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A street and house entrance in first-century Capernaum by the Sea of Galilee: rough stone walls, a wooden door, fishing nets drying on a wall, the lake visible at the end of the street, morning light, no people, wide shot with space in the foreground for characters
+
+mp16fondo-lago. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. The rocky shore of the Sea of Galilee at Capernaum in the early morning: calm blue water, smooth stones, a moored wooden fishing boat, hills across the lake, no people
+
+mp16ficha-pedro. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Simon Peter, Galilean fisherman of about 40, strong and broad-shouldered, weathered sun-tanned face, short curly greying dark beard and hair, a coarse brown wool tunic with a rope belt
+
+mp16ficha-cobradores. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: two collectors of the Temple tax, Jewish men in neat robes with a small money bag and a wax tablet
+
+mp16ficha-fieles. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Jewish men of every class, from a rich merchant in fine robes to a poor laborer in a patched tunic
+
+sp15fondo-casa. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A simple room in a first-century fisherman's house in Capernaum: rough stone walls plastered white, a roof of wooden beams covered with earth and straw, a straw mattress on the floor, a clay water jar, an oil lamp, a small window, no people, wide shot with space in the foreground for characters
+
+sp15fondo-patio. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. The door and small courtyard of a first-century fisherman's house in Capernaum: rough stone walls, fishing nets, a narrow village street, the synagogue in the background, daylight, no people
+
+sp15fondo-ruinas. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. The excavated ruins of a first-century house in Capernaum: low walls of rough stones, foundations of small rooms around a courtyard, under the open sky, no people
+
+sp15ficha-pedro. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Simon Peter, Galilean fisherman of about 40, strong and broad-shouldered, weathered sun-tanned face, short curly greying dark beard and hair, a coarse brown wool tunic with a rope belt
+
+sp15ficha-andres. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Andrew, Peter's brother, Galilean fisherman of about 35, lean, dark beard, a grey wool tunic
+
+sp15ficha-santiago_juan. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: James and John, young Galilean fishermen of about 25-30 in simple tunics
+
+sp15ficha-suegra. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Simon's mother-in-law, Galilean woman of about 60, thin face, grey hair under a dark head covering, a simple brown tunic
