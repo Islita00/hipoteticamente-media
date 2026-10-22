@@ -1,0 +1,27 @@
+Genera 13 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+tac16fondo-templo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A first-century Temple court of Jerusalem: huge pale limestone walls, columns and porticoes, crowds in robes, bright daylight, no people in foreground, wide shot with space for characters
+
+tac16ficha-fariseos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Pharisees in long robes with tassels and phylacteries, stern shrewd faces
+
+tac16ficha-herodianos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Herodians, wealthy men in fine Hellenistic-style tunics and cloaks, smooth calculating faces
+
+he18fondo-vinedo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A first-century vineyard in Galilee: rows of vines on a stony hillside, a lone fig tree with broad leaves but no fruit in the centre, a stone wall, warm light, no people, wide shot with space for characters
+
+he18fondo-galilea. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A hillside of Galilee in the first century with a crowd of villagers sitting on the grass, olive trees, the Sea of Galilee in the distance, no people in foreground
+
+he18ficha-dueno. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the owner of the vineyard, a prosperous middle-aged man in a fine striped wool robe, impatient expression
+
+he18ficha-vinador. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the vinedresser, a lean middle-aged man in a simple worn tunic, rolled sleeves, earth-stained hands, patient and kind face
+
+he18ficha-gente. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Galilean villagers in simple wool tunics, uneasy and attentive
+
+fp25fondo-templo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A first-century Temple court of Jerusalem: great pale limestone walls, columns and porticoes, bright daylight, a few worshippers far in the background, no people in foreground, wide shot with space for characters
+
+fp25fondo-galilea. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. A hillside of Galilee in the first century with a crowd of villagers sitting on the grass, olive trees, the Sea of Galilee in the distance, no people in foreground
+
+fp25ficha-fariseo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a Pharisee of about 50, tall and upright, long fine robe with blue tassels, a prayer shawl and small leather phylacteries on forehead and arm, proud chin raised
+
+fp25ficha-publicano. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a tax collector of about 40, a plain tunic and cloak, heavy purse at his belt, head bowed, eyes lowered, humble and ashamed
+
+fp25ficha-gente. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Galilean villagers in simple wool tunics, attentive
