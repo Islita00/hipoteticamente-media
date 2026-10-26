@@ -1,0 +1,42 @@
+Genera 20 imágenes verticales 9:16, una por cada prompt, en orden. Pon a cada imagen como nombre exacto el código del prompt (ej. vol-01, th-redes-vacias). Usa Nano Banana 2.1. Estilo para todas: Photorealistic cinematic film still, shot on 35mm, dramatic natural lighting, shallow depth of field, hyper-detailed textures, vertical 9:16, high contrast, vivid, absolutely no text, no letters, no captions, no watermark, no gore. Escena derecha, nunca girada, una sola foto (no collage).
+Las personas descritas con la misma edad, pelo y ropa dentro de un mismo prefijo de código (vol-, min-, cel-, hol-, est-, ter-, nub-, hur-, red-, alc-, ale-) son SIEMPRE la misma persona.
+
+vol-01. a group of hikers taking selfies on a volcano rim in the Colombian Andes as a sudden gray ash column explodes behind them, some turning to run, faces terrified
+
+vol-02. a snow-dusted Colombian volcano venting a thick gray plume over green Andean valleys, a road sign warning of volcanic risk in the foreground
+
+vol-03. ash falling over the colonial white streets of Popayán, people covering their mouths with scarves, cars dusted in gray
+
+vol-04. a young Colombian man in his 20s with curly black hair, a blue rain jacket and a backpack on a smoking crater trail holding up his phone for a selfie, coughing, eyes watering
+
+vol-05. a 1949 group of Colombian students in wool sweaters and hats climbing a barren volcano slope, laughing, a thin plume of smoke above them
+
+vol-06. the young Colombian man in the blue rain jacket stopping on the trail as steam rises from the cracks around his boots, hesitant, uneasy
+
+vol-07. a violent volcanic explosion throwing rocks and ash into the sky above a crater rim, tiny figures running, black and white 1949 feel
+
+vol-08. two young 1949 Colombian students covered in gray ash stumbling down a volcano slope, holding each other, faces in shock
+
+min-01. outside a mountain mine entrance in the desert, a huge dust cloud bursting out of the tunnel as miners' families scream and run toward it, rescuers holding them back
+
+min-02. Colombian rescuers with headlamps digging through mud and rock at a collapsed jungle gold mine entrance, rain falling, grim faces
+
+min-03. a Chilean miner in his 40s with a dusty face, a thick black mustache, a yellow helmet with a headlamp and an orange work vest sweating in a dark rocky tunnel lit only by his headlamp, facing a wall of fallen rock, desperate
+
+min-04. a Chilean miner in his 40s with a dusty face, a thick black mustache, a yellow helmet with a headlamp and an orange work vest sitting in a cramped underground shelter sharing a tiny spoon of tuna from a can with other exhausted miners, hollow cheeks, weak
+
+min-05. a vast camp of tents and Chilean flags in the Atacama desert outside a mine, families holding photos of the trapped men, dusk
+
+min-06. a Chilean miner in his 40s with a dusty face, a thick black mustache, a yellow helmet with a headlamp and an orange work vest staring up at the rock ceiling in total darkness except for his weak headlamp, eyes wet, praying
+
+min-07. a drill bit bursting through the rock ceiling of a dark underground shelter, miners shouting and hugging, dust falling
+
+min-08. a Chilean miner in his 40s with a dusty face, a thick black mustache, a yellow helmet with a headlamp and an orange work vest stepping out of a narrow rescue capsule at night wearing dark glasses, crowds cheering under floodlights, tears of joy
+
+cel-01. a hospital room where an old man looking in a mirror sees his face turning young on one side while dark tumors bulge on his neck, nurses staring in horror
+
+cel-02. an elderly German man of 80 with thin white hair, deep wrinkles and a brown cardigan in a Bonn lab chair giving a blood sample to a nurse, calm and curious
+
+cel-03. glowing microscope view of cells transforming from grey and wrinkled to bright and round, dramatic blue and gold light
+
+cel-04. an elderly German man of 80 with thin white hair, deep wrinkles and a brown cardigan looking at his hands in amazement as the wrinkled skin turns smooth and young, wide-eyed
