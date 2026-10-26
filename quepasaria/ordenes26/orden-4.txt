@@ -1,0 +1,42 @@
+Genera 20 imágenes verticales 9:16, una por cada prompt, en orden. Pon a cada imagen como nombre exacto el código del prompt (ej. vol-01, th-redes-vacias). Usa Nano Banana 2.1. Estilo para todas: Photorealistic cinematic film still, shot on 35mm, dramatic natural lighting, shallow depth of field, hyper-detailed textures, vertical 9:16, high contrast, vivid, absolutely no text, no letters, no captions, no watermark, no gore. Escena derecha, nunca girada, una sola foto (no collage).
+Las personas descritas con la misma edad, pelo y ropa dentro de un mismo prefijo de código (vol-, min-, cel-, hol-, est-, ter-, nub-, hur-, red-, alc-, ale-) son SIEMPRE la misma persona.
+
+hur-05. inside a hurricane hunter aircraft, crew members staring at glowing instrument screens in shock, the plane shaking violently in grey cloud
+
+hur-06. a Mexican fisherman in his 40s with a weathered tanned face, short grey-streaked black hair and a faded blue cotton shirt kneeling in the rain next to his overturned fishing boat, looking up at the black sky, anguished
+
+hur-07. a monstrous hurricane wall of rain and wind slamming into a remote Jalisco coastline of jungle and cliffs, trees bending flat, dark green and grey
+
+hur-08. a Mexican fisherman in his 40s with a weathered tanned face, short grey-streaked black hair and a faded blue cotton shirt standing in a flooded street the morning after, sunlight breaking through, mountains behind him with torn clouds, exhausted but relieved
+
+red-01. a Peruvian fishing harbor where dozens of boats haul up completely empty nets while thousands of dead seabirds float in the water, fishermen shouting in despair
+
+red-02. a wide view of the Peruvian coast with a warm reddish ocean surface, fishing boats tied up in port under a grey sky, ominous
+
+red-03. a Peruvian fisherman in his 50s with a deeply wrinkled sunburned face, short grey hair, a faded red cap and yellow oilskin overalls on his small wooden boat touching the sea water with his hand, frowning, worried
+
+red-04. a Peruvian fisherman in his 50s with a deeply wrinkled sunburned face, short grey hair, a faded red cap and yellow oilskin overalls pulling up a nearly empty net with only a few tiny silver fish, staring at it in disbelief
+
+red-05. 1970 Peruvian harbor overflowing with silver anchovies, huge piles of fish on the docks, workers smiling, factory chimneys smoking
+
+red-06. a Peruvian fisherman in his 50s with a deeply wrinkled sunburned face, short grey hair, a faded red cap and yellow oilskin overalls sitting on the dock mending a net in silence, looking out at the sea, pensive
+
+red-07. 1970s Peruvian fishing fleet sailing out in warm hazy weather, nets dropping into an empty brown sea, dead pelicans on the beach
+
+red-08. an abandoned 1970s fishmeal factory on a Peruvian beach with rusty machinery, a Peruvian fisherman in his 50s with a deeply wrinkled sunburned face, short grey hair, a faded red cap and yellow oilskin overalls as a young man standing alone in front of it, devastated
+
+alc-01. a Guadalajara street where a line of manhole covers is blasting into the air on columns of fire, cars flipping, people running and screaming, 1990s
+
+alc-02. a Mexican woman in her 30s with long black hair in a ponytail, a red blouse and gold hoop earrings covering her nose on a narrow street of colorful houses, faint vapor rising from a storm drain grate, disgusted and uneasy
+
+alc-03. a Mexican woman in her 30s with long black hair in a ponytail, a red blouse and gold hoop earrings rubbing her watering eyes while neighbors gather around a sewer grate pointing at it, worried
+
+alc-04. 1990s Mexican firefighters with a gas meter standing over an open manhole, one shrugging, a Mexican woman in her 30s with long black hair in a ponytail, a red blouse and gold hoop earrings watching from her doorway, reluctantly relieved
+
+alc-05. a sunny morning on a 1992 Guadalajara street, children walking to school, street vendors, a faint shimmer of vapor above the drains
+
+alc-06. a Mexican woman in her 30s with long black hair in a ponytail, a red blouse and gold hoop earrings sniffing the air at her kitchen window, frowning, hesitant
+
+alc-07. close-up of a tiny electric spark glowing inside a dark brick sewer tunnel filled with shimmering gasoline vapor and puddles, a rat fleeing, ominous red light
+
+alc-08. an enormous trench of destroyed street with buses and cars thrown into a crater, smoke everywhere, a Mexican woman in her 30s with long black hair in a ponytail, a red blouse and gold hoop earrings covered in dust standing among rescuers, devastated
