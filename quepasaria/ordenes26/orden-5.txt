@@ -1,0 +1,40 @@
+Genera 19 imágenes verticales 9:16, una por cada prompt, en orden. Pon a cada imagen como nombre exacto el código del prompt (ej. vol-01, th-redes-vacias). Usa Nano Banana 2.1. Estilo para todas: Photorealistic cinematic film still, shot on 35mm, dramatic natural lighting, shallow depth of field, hyper-detailed textures, vertical 9:16, high contrast, vivid, absolutely no text, no letters, no captions, no watermark, no gore. Escena derecha, nunca girada, una sola foto (no collage).
+Las personas descritas con la misma edad, pelo y ropa dentro de un mismo prefijo de código (vol-, min-, cel-, hol-, est-, ter-, nub-, hur-, red-, alc-, ale-) son SIEMPRE la misma persona.
+
+ale-01. a school hallway where a crying girl screams as red welts spread across her cheeks where her tears run, classmates backing away in shock
+
+ale-02. macro shot of a single water drop on human skin with red raised welts spreading around it, harsh light
+
+ale-03. an American teenage girl of 15 with long straight blond hair, freckles and a light blue hoodie stepping out of a shower covered in red welts on her arms and neck, wincing in pain
+
+ale-04. an American teenage girl of 15 with long straight blond hair, freckles and a light blue hoodie after running in a park, sweat on her forehead and red welts on her skin, scratching, miserable
+
+ale-05. an American teenage girl of 15 with long straight blond hair, freckles and a light blue hoodie in her bedroom looking at a glass of water on her desk with distrust, sad
+
+ale-06. an American teenage girl of 15 with long straight blond hair, freckles and a light blue hoodie holding back tears with her hand pressed on her mouth, eyes shining, struggling
+
+ale-07. an American teenage girl of 15 with long straight blond hair, freckles and a light blue hoodie holding a glass of water near her lips with a trembling hand, hesitating, afraid
+
+ale-08. an American teenage girl of 15 with long straight blond hair, freckles and a light blue hoodie standing in the rain under an umbrella, a few drops touching her hand, bracing herself, determined
+
+th-volcan-en-la-excursion. a young Colombian hiker in his 20s with curly black hair and a blue rain jacket, face smeared with gray ash, terrified wide eyes, a giant explosive ash column and glowing lava bombs erupting from a volcano right behind him, extreme close-up, dramatic orange light
+
+th-atrapado-en-la-mina. a Chilean miner in his 40s with a dusty face, a thick black mustache and a yellow helmet with a glowing headlamp, desperate eyes, a wall of fallen rock and swirling dust behind him in a dark tunnel, extreme close-up, dramatic light
+
+th-celulas-rejuvenecen. an elderly German man of 80 with thin white hair and deep wrinkles, half his face magically smooth and young, the other half old, glowing blue and gold cells swirling around his head, astonished wide eyes, extreme close-up, saturated colors
+
+th-chocan-agujeros-negros. a young woman in her 20s with long straight black hair, glasses and a dark green jacket, her face and body stretched and warped by gravity, two giant spiraling black holes merging in the night sky behind her, shocked wide eyes, extreme close-up, vivid colors
+
+th-lluvia-de-estrellas. a young American farm woman in her 20s with braided red hair and a 1830s wool shawl, mouth open in awe and terror, thousands of blazing meteors streaking across the whole night sky behind her, extreme close-up, dramatic light
+
+th-lo-peor-viene-despues. a Mexican man in his 30s with short black hair, a thin mustache and a gray work shirt covered in plaster dust, gripping a doorframe, terrified eyes, a huge crack splitting the wall behind him with dust falling, extreme close-up, dramatic light
+
+th-nube-del-volcan. a Guatemalan man in his 30s with short black hair and a white t-shirt running toward the camera in total terror, a colossal boiling gray ash cloud swallowing the trees right behind him, extreme close-up, dramatic orange light
+
+th-peor-huracan-medido. a Mexican fisherman in his 40s with a weathered tanned face and a faded blue cotton shirt clinging to a doorframe, wind and rain blasting sideways, a colossal hurricane eye wall towering behind him over palm trees, terrified, extreme close-up, dramatic dark light
+
+th-redes-vacias. a Peruvian fisherman in his 50s with a deeply wrinkled sunburned face, a faded red cap and yellow oilskin overalls, staring in disbelief at a completely empty net on his boat, thousands of dead seabirds floating on the water behind him, extreme close-up, dramatic light
+
+th-alcantarilla-gasolina. a Mexican woman in her 30s with long black hair in a ponytail and a red blouse, rubbing her watering eyes in alarm, a manhole cover blasting into the air on a column of fire in the street behind her, extreme close-up, dramatic orange light
+
+th-alergico-al-agua. an American teenage girl of 15 with long straight blond hair and freckles, red welts spreading across her cheeks where tears run down, crying in pain, a glass of water in the foreground, extreme close-up, dramatic light
