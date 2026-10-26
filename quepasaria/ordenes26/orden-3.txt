@@ -1,0 +1,42 @@
+Genera 20 imágenes verticales 9:16, una por cada prompt, en orden. Pon a cada imagen como nombre exacto el código del prompt (ej. vol-01, th-redes-vacias). Usa Nano Banana 2.1. Estilo para todas: Photorealistic cinematic film still, shot on 35mm, dramatic natural lighting, shallow depth of field, hyper-detailed textures, vertical 9:16, high contrast, vivid, absolutely no text, no letters, no captions, no watermark, no gore. Escena derecha, nunca girada, una sola foto (no collage).
+Las personas descritas con la misma edad, pelo y ropa dentro de un mismo prefijo de código (vol-, min-, cel-, hol-, est-, ter-, nub-, hur-, red-, alc-, ale-) son SIEMPRE la misma persona.
+
+ter-01. a Mexican city street where people who were sweeping rubble after an earthquake scream and run as a second violent shake topples a cracked building facade toward them
+
+ter-02. a seismograph drum in a dim monitoring room covered with endless jagged lines, a tired technician staring at it, a map of Chiapas on the wall
+
+ter-03. a Mexican man in his 30s with short black hair, a thin mustache and a grey work shirt covered in plaster dust lying in bed at night staring at a long crack running across the bedroom ceiling, uneasy
+
+ter-04. a Mexican man in his 30s with short black hair, a thin mustache and a grey work shirt covered in plaster dust grabbing the doorframe as dust falls from a widening crack in his living room wall during an aftershock, frightened
+
+ter-05. night view of Christchurch New Zealand in 2010 with fallen brick walls and broken streets lit by car headlights, residents in pajamas standing outside
+
+ter-06. a Mexican man in his 30s with short black hair, a thin mustache and a grey work shirt covered in plaster dust looking up at a tall office building with small cracks, coffee in hand, hesitant
+
+ter-07. a busy Christchurch downtown street at lunchtime in 2011, office workers walking, the ground suddenly rippling and windows shaking
+
+ter-08. a collapsed multi-storey office building in Christchurch 2011 with rescuers climbing the rubble, the stone cathedral spire fallen in the background, devastating
+
+nub-01. a Guatemalan village street where a huge boiling grey cloud of ash rolls down from a volcano toward houses, people running and screaming, a man filming with his phone
+
+nub-02. close view of a glowing churning pyroclastic flow of grey ash and red-hot rocks pouring down a ravine, trees bursting into flames
+
+nub-03. a Guatemalan man in his 30s with short black hair, a white t-shirt and jeans, holding a phone standing on a road bridge filming a giant ash cloud with his phone, half smiling, unaware of the danger
+
+nub-04. a Guatemalan man in his 30s with short black hair, a white t-shirt and jeans, holding a phone running along a road with the dark ash cloud swallowing the trees right behind him, face full of terror
+
+nub-05. a Guatemalan village buried under grey ash up to the roofs, rescuers in orange suits searching, the smoking volcano behind
+
+nub-06. a Guatemalan man in his 30s with short black hair, a white t-shirt and jeans, holding a phone covered in grey ash sitting on the ground, staring at his phone screen, shocked
+
+nub-07. Guatemalan volcanologists in a monitoring room pointing at seismic screens and shouting into radios, tense, the volcano visible through the window
+
+nub-08. a Guatemalan man in his 30s with short black hair, a white t-shirt and jeans, holding a phone standing among ash-covered ruins at dusk looking up at the Fuego volcano glowing with lava, grieving
+
+hur-01. a Mexican beach town street where a colossal hurricane eye wall towers over the palm trees, tin roofs flying off, people running and screaming, a car tumbling down the road
+
+hur-02. satellite-style view of a perfect giant hurricane with a tiny sharp eye over the Pacific next to the Mexican coast, glowing white spiral clouds, ominous
+
+hur-03. a Mexican fisherman in his 40s with a weathered tanned face, short grey-streaked black hair and a faded blue cotton shirt staring at his phone on a Jalisco beach under a darkening sky, eyes wide in disbelief, fishing boats pulled up on the sand
+
+hur-04. a Mexican fisherman in his 40s with a weathered tanned face, short grey-streaked black hair and a faded blue cotton shirt clinging to a doorframe as the roof of his small coastal house is ripped away by screaming wind, rain blasting sideways, terrified
