@@ -1,0 +1,42 @@
+Genera 20 imágenes verticales 9:16, una por cada prompt, en orden. Pon a cada imagen como nombre exacto el código del prompt (ej. vol-01, th-redes-vacias). Usa Nano Banana 2.1. Estilo para todas: Photorealistic cinematic film still, shot on 35mm, dramatic natural lighting, shallow depth of field, hyper-detailed textures, vertical 9:16, high contrast, vivid, absolutely no text, no letters, no captions, no watermark, no gore. Escena derecha, nunca girada, una sola foto (no collage).
+Las personas descritas con la misma edad, pelo y ropa dentro de un mismo prefijo de código (vol-, min-, cel-, hol-, est-, ter-, nub-, hur-, red-, alc-, ale-) son SIEMPRE la misma persona.
+
+cel-05. a Japanese scientist in his 50s with short grey hair and a white lab coat holding a petri dish up to the light, proud
+
+cel-06. an elderly German man of 80 with thin white hair, deep wrinkles and a brown cardigan smiling hopefully at an old photo of himself as a young man, nostalgic
+
+cel-07. a Spanish lab at night with scientists staring at a monitor showing mice, one researcher covering her mouth in shock
+
+cel-08. glowing microscope view of young cells multiplying out of control into a dark tumor mass, ominous red tones
+
+hol-01. a city park at night where two giant black holes spiral into each other in the sky, the trees, lampposts and people below visibly stretched and warped, people staring up in shock
+
+hol-02. two black holes orbiting each other with glowing rings, sending ripples through a visible grid of space toward a tiny blue Earth, cosmic and dramatic
+
+hol-03. a young woman in her 20s with long straight black hair, glasses and a dark green jacket standing on a sidewalk with her body subtly stretched tall then squeezed, ripples of distortion in the air around her, puzzled
+
+hol-04. a young woman in her 20s with long straight black hair, glasses and a dark green jacket sitting calmly at a café table drinking coffee while faint glowing ripples pass through her, completely unaware
+
+hol-05. an enormous L-shaped laser observatory with two 4-kilometre concrete arms stretching across flat Louisiana pine forest at dawn, aerial view
+
+hol-06. a young woman in her 20s with long straight black hair, glasses and a dark green jacket looking at an old 2015 calendar page on a wall, tilting her head, curious
+
+hol-07. two black holes merging in a blinding flash in deep space, a huge shock ring of warped stars expanding outward
+
+hol-08. a young woman in her 20s with long straight black hair, glasses and a dark green jacket on a rooftop at night looking up at a sky full of stars, one point exploding with light, deeply amazed
+
+est-01. a small 1830s American village at night where thousands of shooting stars rain down across the whole sky, villagers kneeling and praying in the street, a woman screaming
+
+est-02. a young American farm woman in her 20s with braided red hair, a long 1830s wool dress and a shawl waking up in a log cabin bed as flickering white light pours through the window, confused and scared
+
+est-03. a young American farm woman in her 20s with braided red hair, a long 1830s wool dress and a shawl standing barefoot in a snowy dirt road looking up at countless meteors streaking in every direction, mouth open in awe and terror
+
+est-04. 1830s farmers and families kneeling in a field with hands clasped, a preacher raising a Bible, meteors falling above them
+
+est-05. an old 1833 woodcut-style scene of the great meteor storm over a river and farmland, hundreds of streaks of light filling the sky
+
+est-06. a young American farm woman in her 20s with braided red hair, a long 1830s wool dress and a shawl holding her little brother tightly under the falling stars, tears on her cheeks, trembling
+
+est-07. a 19th century professor in his 40s with dark side-whiskers and a black coat writing notes by candlelight at a window, the meteor storm outside
+
+est-08. a modern family on a hill at night watching a few bright meteors radiating from the constellation Leo, children pointing up, smiling
