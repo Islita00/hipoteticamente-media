@@ -1,0 +1,19 @@
+Genera 9 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Las del Evangelio son vidrieras de catedral, todo en cristal de colores. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+nbh24fondo-galilea. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a village path in Galilee in the first century with a large old fig tree giving deep shade, dry-stone walls, small stone houses, morning light, no people, wide shot with space for characters
+
+nbh24ficha-felipe. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Philip of Bethsaida, Galilean Jewish man of about 28, clean-shaven or light beard, lively eyes, simple tan wool tunic
+
+nbh24ficha-natanael. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Nathanael of Cana, Galilean Jewish man of about 30, thoughtful skeptical face, neat dark beard, blue-grey wool tunic and mantle
+
+n8fondo-azotea. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a flat rooftop of a stone house in Jerusalem at night in the first century, low parapet, a few oil lamps, the moonlit city and the Temple in the distance, a gentle wind moving the lamp flames, no people, wide shot with space for characters
+
+n8fondo-sepulcro. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a garden with a rock-cut tomb near Jerusalem at dusk in the first century, olive trees, a large round stone beside the entrance, no people, wide shot with space for characters
+
+n8ficha-nicodemo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Nicodemus, Pharisee and ruler of the Jews, about 60, long grey beard, intelligent tired eyes, rich dark blue robe with fringes, a striped prayer shawl over his shoulders, cautious posture
+
+es19fondo-decapolis. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the shore of the Sea of Galilee in the Decapolis region in the first century, a Greco-Roman town with white columns and a small temple on the hillside behind, a quiet olive grove near the water, morning light, no people, wide shot with space for characters
+
+es19ficha-discipulos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the disciples, Galilean Jewish men of 20-45 in simple undyed wool tunics and mantles, weathered faces
+
+es19ficha-sordo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a deaf man of about 40 who stammers, thin, short black beard, simple ochre tunic, anxious, isolated eyes; after healing: amazed, overjoyed face
