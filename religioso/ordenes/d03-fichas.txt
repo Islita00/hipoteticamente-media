@@ -1,0 +1,13 @@
+Genera 6 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Las del Evangelio son vidrieras de catedral, todo en cristal de colores. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+dh13fondo-templo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the outer court of the Temple of Jerusalem in the first century, the colonnades of Solomon's Portico with tall limestone columns, sunlit stone pavement, no people, wide shot with space for characters
+
+dh13fondo-vina. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a first-century vineyard on terraced hills of Judea with low stone walls, rows of vines and a stone watchtower, morning light, no people
+
+dh13ficha-sacerdotes. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the chief priests and elders of the people, older Jewish men of 50-70 in rich robes, white and blue prayer shawls and turbans, stern proud faces
+
+dh13ficha-padre. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a vineyard owner, Jewish man of about 60, grey beard, plain brown robe and headcloth, kind but firm face
+
+dh13ficha-hijo1. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: his first son, about 25, neat clean tunic, quick agreeable smile that does not reach his eyes
+
+dh13ficha-hijo2. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: his second son, about 22, rough work tunic, frowning and stubborn at first, later humble and repentant
