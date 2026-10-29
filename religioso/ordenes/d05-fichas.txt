@@ -1,0 +1,13 @@
+Genera 6 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Las del Evangelio son vidrieras de catedral, todo en cristal de colores. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+jead22fondo-monte. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a quiet mountainside in Galilee above the Sea of Galilee, rocks, wild grass and a lone terebinth tree, the lake far below, no people, wide shot with space for characters
+
+jead22ficha-discipulos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the disciples, Galilean Jewish men of 20-45 in simple undyed wool tunics and mantles, weathered faces
+
+jead22ficha-pedro. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Simon Peter, Galilean fisherman of about 35, broad-shouldered, curly greying black hair and thick beard, rough brown tunic
+
+jead22ficha-mateo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Matthew, former tax collector of about 35, neatly trimmed beard, better-quality blue tunic, ink-stained fingers
+
+jead22ficha-simon. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Simon called the Zealot, man of about 30, lean and intense, short black beard, plain grey tunic with a leather belt, fiery eyes
+
+jead22ficha-judas. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Judas Iscariot, man of about 30, dark beard, plain tunic, a small money pouch at his belt, reserved face
