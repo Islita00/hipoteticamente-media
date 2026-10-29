@@ -1,0 +1,11 @@
+Genera 5 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Las del Evangelio son vidrieras de catedral, todo en cristal de colores. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+jpdc29fondo-carcel. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a dark stone prison cell in a hilltop fortress above the Dead Sea, a small barred window with a single shaft of light, straw on the floor, no people
+
+jpdc29fondo-galilea. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a village square in Galilee with low stone houses, an old olive tree and a well, afternoon light, no people, wide shot with space for characters
+
+jpdc29ficha-juan. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: John the Baptist in prison, lean bearded man of about 32, long unkempt dark hair, rough camel-hair garment with a leather belt, chains on his wrists, burning yet troubled eyes
+
+jpdc29ficha-enviados. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: two disciples of John, young Jewish men in plain undyed tunics, travel-worn and dusty, earnest searching faces
+
+jpdc29ficha-enfermos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the sick and the poor of Galilee: a blind man, a lame man with a crutch, a mother with a child, in simple tunics
