@@ -1,0 +1,11 @@
+Genera 5 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Las del Evangelio son vidrieras de catedral, todo en cristal de colores. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+cb17fondo-betsaida. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a first-century fishing village of black basalt houses on the northern shore of the Sea of Galilee, fishing nets drying on poles, morning light, no people, wide shot with space for characters
+
+cb17fondo-afueras. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a quiet path among fields just outside the village of Bethsaida, black basalt stones and an old olive tree, the lake shining in the distance, no people
+
+cb17ficha-discipulos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the disciples, Galilean Jewish men of 20-45 in simple undyed wool tunics and mantles, weathered faces
+
+cb17ficha-ciego. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a blind man of about 45, gaunt, grey-streaked beard, worn brown tunic, eyes clouded and unfocused, groping with one hand; after healing: wide clear eyes full of wonder
+
+cb17ficha-vecinos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: villagers of Bethsaida, fishermen and their wives in simple tunics, hopeful faces
