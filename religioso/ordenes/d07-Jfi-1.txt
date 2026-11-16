@@ -1,0 +1,25 @@
+Genera 12 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+me18fondo-sinagoga. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the interior of a first-century Galilean synagogue with stone benches along the walls, stone columns, a raised reading platform, oil lamps and daylight from high windows, no people, wide shot with space for characters
+
+me18ficha-mujer. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a thin woman of about 50, bent double with her back curved so she can only look at the ground, plain faded blue tunic and head veil, weary sad face; after healing: standing upright, face lifted to heaven, overjoyed
+
+me18ficha-jefe. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the leader of the synagogue, older Jewish man with a grey beard, fine striped robe and prayer shawl, indignant face
+
+me18ficha-gente. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the congregation of the synagogue, Galilean men and women in simple tunics and veils
+
+dqe25fondo-plaza. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a crowded first-century Galilean village square with stone houses, an old olive tree and a low wall, daylight, no people, wide shot with space for characters
+
+dqe25fondo-nazaret. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the inside of a humble first-century stone house in Nazareth, a small window, a loom and clay jars, soft morning light, no people
+
+dqe25ficha-mujer. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a village woman of about 40 in a simple brown tunic and headscarf, raising her arms and crying out with admiration
+
+dqe25ficha-maria. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Mary, mother of Jesus, Jewish woman of about 48, gentle serene face, simple blue mantle over a cream tunic and a white veil; as a young woman in Nazareth: about 15, same clothes, humble and attentive
+
+dqe25ficha-gente. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a crowd of Galilean villagers in simple tunics and veils
+
+es17fondo-sembrados. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. golden wheat fields in Galilee in spring with a narrow path running between them, low stone walls, a village on the hill behind, no people, wide shot with space for characters
+
+es17ficha-discipulos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the disciples, Galilean Jewish men of 20-45 in simple undyed wool tunics and mantles, weathered faces
+
+es17ficha-fariseos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Pharisees, Jewish men of 40-60 with long beards, fine robes with blue tassels, phylacteries on the forehead, disapproving faces
