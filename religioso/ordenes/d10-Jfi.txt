@@ -1,0 +1,29 @@
+Genera 14 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+pe18fondo-camino. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a road through the hills of Judea leading to a walled town with a narrow stone gate at sunset, olive trees along the road, no people, wide shot with space for characters
+
+pe18ficha-discipulos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the disciples, Galilean Jewish men of 20-45 in simple undyed wool tunics and mantles, weathered faces
+
+pe18ficha-hombre. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a man from the crowd, Jewish, about 35, plain tunic and headcloth, curious and anxious face
+
+pe18ficha-gente. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: travelers and villagers on the road, men and women in simple tunics
+
+vnon23fondo-casa. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the courtyard of a first-century house in Capernaum with black basalt walls, a fig tree, clay jars and goatskin wineskins hanging on wooden pegs, daylight, no people, wide shot with space for characters
+
+vnon23ficha-discipulos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the disciples, Galilean Jewish men of 20-45 in simple undyed wool tunics and mantles, weathered faces
+
+vnon23ficha-fariseos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Pharisees, Jewish men of 40-60 with long beards, fine robes with blue tassels, phylacteries on the forehead, disapproving faces
+
+vnon23ficha-juanistas. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: disciples of John the Baptist, lean young Jewish men in rough plain tunics, austere faces
+
+hfr25fondo-cana. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a first-century village street in Cana of Galilee with stone houses, a courtyard gate and a fig tree, noon light, no people, wide shot with space for characters
+
+hfr25fondo-camino. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a road winding down from the Galilean hills towards the Sea of Galilee and Capernaum in the distance, early morning, no people
+
+hfr25fondo-cafarnaum. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the interior of a well-to-do first-century house in Capernaum by the lake, a bedroom with a mat and cushions, an oil lamp, morning light from a window, no people
+
+hfr25ficha-funcionario. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a royal official of Herod's court, Jewish man of about 40, fine dark-red robe with an embroidered belt, short beard, anguished pleading face; later relieved and full of faith
+
+hfr25ficha-hijo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: his son, a boy of about 10, first pale and feverish lying on a mat, then healthy and sitting up
+
+hfr25ficha-criados. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: household servants, men and women in plain tunics, joyful faces
