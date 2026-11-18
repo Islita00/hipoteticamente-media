@@ -1,0 +1,39 @@
+Genera 19 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+sdrc28ficha-voluntario. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: an eager young man of about 25 in a clean blue tunic and mantle
+
+sdrc28ficha-hijo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a man of about 35 in a dark tunic, troubled face
+
+sdrc28ficha-tercero. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a farmer of about 30 in a rough tunic, beside his oxen and wooden plough
+
+sdrc28ficha-discipulos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the disciples, Galilean men in tunics and mantles walking behind Jesus
+
+aa16fondo-portico. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the colonnades of the Temple of Jerusalem in the first century: tall white marble columns under cedar roofs, a wide stone pavement, piles of cut building stones and wooden scaffolding from the ongoing construction at one side, bright daylight, no people, wide shot with space for characters
+
+aa16ficha-judios. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a group of Jewish men of Jerusalem in long robes and prayer shawls, beards, growing indignation on their faces
+
+aa16ficha-abraham. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Abraham, an old patriarch with a long white beard, wool robes and a staff
+
+pv17fondo-monte. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a grassy hillside above the Sea of Galilee in spring, wild flowers and rocks, the blue lake below, soft morning light, no people, wide shot with space for characters
+
+pv17fondo-taller. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a first-century carpenter's workshop in Nazareth: rough wooden beams leaning against a stone wall, a workbench with simple iron tools, wood shavings and sawdust on the floor, light from the door, no people
+
+pv17ficha-gente. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the disciples and a crowd of Galilean villagers sitting on the grass, men and women in tunics and mantles
+
+pv17ficha-juez. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a self-righteous man of about 50 in a fine robe, pointing finger, haughty face
+
+pv17ficha-hermano. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a humble man of about 30 in a plain tunic, embarrassed face
+
+mem29fondo-llano. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a rocky open place at the foot of a high mountain in Galilee, a clearing among scattered bushes and boulders, a mountain path coming down, afternoon light, no people, wide shot with space for characters
+
+mem29ficha-padre. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a Galilean father of about 45, grey-streaked beard, worn brown tunic, desperate tearful face; at the end, weeping with joy
+
+mem29ficha-hijo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: his son, a thin boy of about 12, pale, in a plain tunic, silent
+
+mem29ficha-apostoles. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Peter, James and John coming down the mountain with Jesus; and the other disciples, Galilean men in tunics and mantles, embarrassed
+
+mem29ficha-escribas. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: scribes in long white robes, arguing
+
+hd13fondo-portico. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the colonnades of the Temple of Jerusalem in the first century: tall white marble columns under cedar roofs, a wide stone pavement crowded with space for people, bright daylight, no people, wide shot with space for characters
+
+hd13fondo-palacio. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a hall of King David's palace in ancient Jerusalem: stone walls, cedar beams, a harp on a stand, a scroll on a table, oil lamps, no people
