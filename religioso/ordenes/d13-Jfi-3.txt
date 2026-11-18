@@ -1,0 +1,35 @@
+Genera 17 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+hd13ficha-david. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: King David in old age, white beard, golden crown, royal purple robe, holding a harp
+
+hd13ficha-natan. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the prophet Nathan, an old man with a long grey beard, simple robe and staff
+
+hd13ficha-escribas. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: scribes in long white robes with fringed prayer shawls, grey beards
+
+hd13ficha-multitud. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a large crowd of Jewish pilgrims, men and women in tunics and mantles, listening with delight
+
+sd17fondo-colina. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a hillside in Galilee at sunrise with a path winding down towards several small villages in the valley, olive trees and golden wheat fields, no people, wide shot with space for characters
+
+sd17fondo-casa. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the courtyard of a humble first-century Galilean house with a wooden door, a clay oven, a stone bench and a fig tree, no people
+
+sd17ficha-discipulos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: seventy-two disciples, Galilean men of different ages in plain tunics and mantles, barefoot, without bags
+
+sd17ficha-familia. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a Galilean family at the door of their house: a father, a mother with a head covering and two children, welcoming faces
+
+sd17ficha-enfermo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: an old sick man lying on a mat
+
+vh19fondo-portico. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the colonnades of the Temple of Jerusalem in the first century: tall white marble columns under cedar roofs, massive foundation stones at the corner of the wall, bright daylight, no people, wide shot with space for characters
+
+vh19fondo-vina. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a vineyard in first-century Judea surrounded by a low stone wall, a stone watchtower, a winepress cut into the rock, rows of vines heavy with grapes at harvest time, a wooden gate, no people, wide shot with space for characters
+
+vh19ficha-sacerdotes. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: chief priests in rich embroidered robes and turbans, and elders with long grey beards
+
+vh19ficha-propietario. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a landowner of about 60, grey beard, fine travelling cloak
+
+vh19ficha-vinadores. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: tenant farmers, rough men in sweat-stained tunics with hard, greedy faces
+
+vh19ficha-criados. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: servants in simple tunics carrying empty baskets
+
+vh19ficha-hijo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the landowner's son, a young man of about 25 in a fine white robe and blue mantle, noble trusting face
+
+vh19ficha-isaias. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the prophet Isaiah, an old man in a mantle with a scroll
