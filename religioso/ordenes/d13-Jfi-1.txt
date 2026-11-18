@@ -1,0 +1,39 @@
+Genera 19 imágenes verticales 9:16, una por cada prompt de abajo, en orden, con Nano Banana 2.1 (si da límite, Nano Banana 2 Lite). Copia el código del inicio como nombre y al inicio de cada prompt. Primero salen los fondos y fichas, que se usan de referencia en las escenas con el mismo código. Sin texto ni letras ni inscripciones, sin collage, una imagen por prompt. No me pidas confirmación.
+
+pd19fondo-jordan. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the eastern bank of the Jordan river at Bethany beyond the Jordan, reeds and tamarisk bushes, shallow greenish water, pale desert hills, a footpath along the bank, afternoon light, no people, wide shot with space for characters
+
+pd19fondo-camino. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a dusty path among low hills and scattered palm trees near the Jordan, golden late-afternoon light, no people, wide shot with space for characters
+
+pd19ficha-juan. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: John the Baptist, lean Jewish man of about 30, sun-darkened skin, long dark hair and long beard, garment of camel's hair with a leather belt, intense deep eyes
+
+pd19ficha-andres. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Andrew, Galilean fisherman of about 30, short dark hair and short dark beard, brown tunic and striped wool mantle, eager earnest face
+
+pd19ficha-discipulo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the other disciple, a young Galilean man of about 20, beardless, dark hair, beige tunic
+
+pd19ficha-simon. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: Simon, sturdy Galilean fisherman of about 35, thick dark curly hair and full beard, broad shoulders, rough grey tunic
+
+ec24fondo-sinagoga. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. interior of a first-century Galilean synagogue in Capernaum: walls of dark basalt stone, stepped stone benches along the walls, a few columns holding a wooden roof, light from high windows, a reading place with a Torah scroll, no people, wide shot with space for characters
+
+ec24fondo-ruinas. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the ruins of the white limestone synagogue of Capernaum today, columns and walls standing on a lower course of dark basalt stones, the Sea of Galilee and hills behind, bright midday sun, no people
+
+ec24ficha-poseido. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a Jewish man of about 35 in a worn, torn brown tunic, wild disheveled hair, contorted tormented face, eyes wide; after the healing: calm, exhausted, at peace
+
+ec24ficha-escribas. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: scribes in long white robes with fringed prayer shawls, grey beards, frowning
+
+ec24ficha-gente. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: villagers of Capernaum, men in tunics and striped mantles, women with head coverings
+
+ov18fondo-plaza. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. the small market square of a first-century Judean village, stone houses, a well, a few baskets, no people, wide shot with space for characters
+
+ov18fondo-vina. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a terraced vineyard on a hillside in first-century Judea with low stone walls, a stone watchtower and grapevines heavy with grapes, a wooden gate, no people, wide shot with space for characters
+
+ov18ficha-propietario. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: a landowner of about 50, short grey beard, fine blue wool mantle over a white tunic, a leather purse at his belt, kind but firm face
+
+ov18ficha-administrador. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: his steward, a man of about 40 in a brown tunic holding a small wooden box of coins
+
+ov18ficha-primeros. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: day labourers hired at dawn, sunburnt men in rough tunics with head cloths, sweaty and tired
+
+ov18ficha-ultimos. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. Character sheet, full body, front view, neutral background: the last labourers hired at the end of the day, poor thin men in patched tunics, ashamed and hopeful faces
+
+sdrc28fondo-camino. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a dusty road through the hills on the way to Jerusalem in the first century, terraced fields and olive trees, a village in the distance, late afternoon, no people, wide shot with space for characters
+
+sdrc28fondo-campo. Classic hand-drawn 2D feature animation, clean ink lines, cel shading, epic painted backgrounds, biblical epic mood, vertical, no text. a ploughed field beside the road with a pair of oxen yoked to a simple wooden hand plough, fresh furrows in the earth, a farmhouse in the distance, no people
